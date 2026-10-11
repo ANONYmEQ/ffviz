@@ -4,7 +4,8 @@
 one clear figure: where the fault slipped, how the rupture spread, the focal
 mechanism, the aftershocks and the moment-rate function – all on a single page.
 
-![Example figure: M7.7 Panama earthquake, 9 Oct 2026](docs/example.png)
+<img width="3500" height="2200" alt="us6000u18k_ffm" src="https://github.com/user-attachments/assets/1ce43980-0212-4e60-a982-8479661196ac" />
+
 
 ## Download and use (Windows 10/11)
 
