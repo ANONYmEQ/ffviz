@@ -4,7 +4,8 @@
 one clear figure: where the fault slipped, how the rupture spread, the focal
 mechanism, the aftershocks and the moment-rate function – all on a single page.
 
-<img width="3500" height="2200" alt="us6000u18k_ffm" src="https://github.com/user-attachments/assets/1ce43980-0212-4e60-a982-8479661196ac" />
+<img width="3500" height="2200" alt="us6000u18k_ffm" src="https://github.com/user-attachments/assets/bee73002-1c5e-493d-b1d5-1871157a191c" />
+
 
 
 ## Download and use (Windows 10/11)
