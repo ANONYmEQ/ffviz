@@ -1,0 +1,29 @@
+ffviz – third-party software and data
+=====================================
+
+The Windows program (ffviz.exe) bundles the following open-source components.
+Their licences permit redistribution; full licence texts are available from the
+respective projects (and inside the bundled package folders where provided).
+
+Software
+--------
+Python ............ PSF License                        https://www.python.org
+Tcl/Tk (tkinter) .. Tcl/Tk License (BSD-style)          https://www.tcl.tk
+NumPy ............. BSD-3-Clause                       https://numpy.org
+Matplotlib ........ Matplotlib License (PSF-based)     https://matplotlib.org
+Cartopy ........... BSD-3-Clause                       https://scitools.org.uk/cartopy
+Shapely ........... BSD-3-Clause                       https://shapely.readthedocs.io
+GEOS .............. LGPL-2.1 (dynamically linked DLL; may be replaced by the user)  https://libgeos.org
+pyproj ............ MIT                                https://pyproj4.github.io/pyproj
+PROJ .............. MIT                                https://proj.org
+Pillow ............ MIT-CMU (HPND)                     https://python-pillow.org
+requests, urllib3, idna, charset-normalizer ... Apache-2.0 / MIT
+certifi ........... MPL-2.0                            https://github.com/certifi/python-certifi
+PyInstaller bootloader ... GPL-2.0 with bootloader exception (allows distribution)
+
+Data (downloaded at run time, not bundled)
+-----------------------------------------
+USGS ComCat earthquake data and products ..... public domain (U.S. Government)
+Natural Earth coastlines and borders ......... public domain
+PB2002 plate boundaries, Bird (2003), G3 4(3):1027,
+  GeoJSON via github.com/fraxen/tectonicplates ... Open Data Commons Attribution (ODC-By 1.0)

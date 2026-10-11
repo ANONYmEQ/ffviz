@@ -1,0 +1,5 @@
+[console_scripts]
+ffviz = ffviz.__main__:main
+
+[gui_scripts]
+ffviz-app = ffviz.gui:main

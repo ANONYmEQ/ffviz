@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ffviz"
+version = "1.0.0"
+description = "Publication-style figures of USGS finite-fault models"
+readme = "README.md"
+requires-python = ">=3.10,<3.14"
+dependencies = ["numpy>=1.22,<3", "matplotlib>=3.6,<4", "cartopy>=0.22,<0.28", "pyproj>=3.4,<4", "shapely>=2.0,<3", "requests>=2.25,<3"]
+
+[project.scripts]
+ffviz = "ffviz.__main__:main"
+
+[project.gui-scripts]
+ffviz-app = "ffviz.gui:main"
+
+[tool.setuptools]
+packages = ["ffviz"]
+
+[tool.setuptools.package-data]
+ffviz = ["icon.png"]
